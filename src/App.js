@@ -2,7 +2,7 @@
 // import "./App.css";
 // let name = "Sreejit";
 import React, { useState } from "react";
-import About from "./components/About";
+// import About from "./components/About";
 import Alert from "./components/Alert";
 import Navbar from "./components/Navbar";
 import TextForm from "./components/TextForm";
